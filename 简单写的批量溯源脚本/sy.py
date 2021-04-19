@@ -33,7 +33,7 @@ def api1():
       str1 ="历史绑定域名:  "
       print(str1.strip())
       print(i.replace("<[^>]*>",""))
-    print("——————————————")
+    print("---")
     
 if __name__ == "__main__":
   api1()
